@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lokesh Yadav</h1>
-<h3 align="center">A passionate data analyst and an aspiring data scientist from India</h3>
+<h3 align="center">A Computer Science Engineer who loves to analyze people and data with an insatiable hunger for knowledge also an aspiring data scientist from India</h3>
 
 <p align="left"> <a href="https://twitter.com/lokeshyadav559" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshyadav559?logo=twitter&style=for-the-badge" alt="lokeshyadav559" /></a> </p>
 
