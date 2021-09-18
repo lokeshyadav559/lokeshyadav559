@@ -7,5 +7,3 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshyadav559)
-
-![Lokesh's github stats](https://github-readme-stats.vercel.app/api?username=lokeshyadav559&show_icons=true&theme=radical)
