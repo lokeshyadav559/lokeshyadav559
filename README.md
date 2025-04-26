@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Lokesh Yadav</h1>
-<h3 align="center">A Computer Science Engineer who loves to analyze people and data with an insatiable hunger for knowledge also an aspiring developer from India</h3>
+<h3 align="center">A Computer Science Engineer who loves to analyze people and data with an insatiable hunger for knowledge </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
